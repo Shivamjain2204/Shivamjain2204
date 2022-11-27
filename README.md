@@ -8,6 +8,4 @@ Shivamjain2204/Shivamjain2204 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Tech stack:
 
-Python C++ HTML5 CSS3 JavaScript React React Native Express.js NodeJS Laravel Figma MongoDB MySQL
