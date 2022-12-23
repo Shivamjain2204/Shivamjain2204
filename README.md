@@ -1,4 +1,4 @@
-- 👋 Hi I'm Shivam, a passionate developer from india, having experience in developing range of web applications.i'm working as a software development engineer at iVoyant.my passion for software lies with dreaming up ideas and making them come true with elegant pixel-perfect interfaces. i take great care in the experience, architecture, and code quality of the things i build.
+- 👋 Hi I'm Shivam, a passionate developer from india, having experience in developing range of web applications.i'm working as a software development engineer at iVoyant.my passion for software lies with dreaming up ideas and making them come true with elegant pixel-perfect interfaces. i take great care in the architecture, and code quality of the things i build.
 
 
 
