@@ -1,5 +1,4 @@
-- 👋 Hi I'm Shivam, a frontend skilled developer from India having experience in developing range of web applications. 
-Specialization in creating the user interface and user experience of websites and web applications.
+- 👋 Hi I'm Shivam, a frontend skilled developer from India having experience in developing range of web applications and specialization in creating the user interface and user experience of websites and web applications.
 
 
 
