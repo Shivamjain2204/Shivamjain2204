@@ -13,14 +13,15 @@ Frontend skilled developer👨🏻‍💻 from India having experience in develo
 
 Joined Github 2 years ago.
 
-### Talking about Personal Stuff:
+### Talking about Personal Stuff :
 
-- 🛠 &nbsp; At the moment working with ReactJS, Typescript, MERN Stack. 
-- 👀 &nbsp; All my contribution on [Github](https://github.com/Shivamjain2204) are genuine.
+- 🛠 &nbsp; At the moment working with ReactJS, Typescript, MERN Stack.
+- 👀 &nbsp; Currently learning React Native.
+- 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/Shivamjain2204) are genuine.
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/Shivamjain013) or jainshivam2204@gmail.com.
 - 🚀 &nbsp; My [Portfolio Website](https://shivam-portfolio-rose.vercel.app/) 
 
-- ### My Absolute Favorites:
+- ### My Absolute Favorites :
 
 - 💻 &nbsp; I love to build user interfaces with cool animations.
 - 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
