@@ -16,7 +16,7 @@ Joined Github 2 years ago.
 ### Talking about Personal Stuff :
 
 - 🛠 &nbsp; At the moment working with ReactJS, Typescript, MERN Stack.
-- 👀 &nbsp; Currently learning React Native.
+- 👀 &nbsp; Currently learning NextJS and React Native.
 - 👨🏻‍💻 &nbsp; All my contribution on [Github](https://github.com/Shivamjain2204) are genuine.
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/Shivamjain013) or jainshivam2204@gmail.com.
 - 🚀 &nbsp; My [Portfolio Website](https://shivam-portfolio-rose.vercel.app/) 
