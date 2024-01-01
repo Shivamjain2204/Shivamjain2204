@@ -11,7 +11,9 @@
 
 Frontend skilled developer👨🏻‍💻 from India having experience in developing range of web applications and specialization in creating the user interface and user experience of websites. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web 🕸️ Development.
 
-Joined Github 2 years ago.
+If you have opportunity where I can contribute and help your organization to grow. Let's connect 🚀
+
+Joined Github 3 years ago.
 
 ### Talking about Personal Stuff :
 
