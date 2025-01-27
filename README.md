@@ -13,7 +13,7 @@ Frontend skilled developer👨🏻‍💻 from India having experience in develo
 
 If you have opportunity where I can contribute and help your organization to grow. Let's connect 🚀
 
-Joined Github 3 years ago.
+Joined Github 4 years ago.
 
 ### Talking about Personal Stuff :
 
